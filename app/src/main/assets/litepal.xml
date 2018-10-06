@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="TempData" ></dbname>
+    <version value="1" ></version>
+    <list>
+        <mapping class="com.example.administrator.newproject002.Datas">
+
+        </mapping>
+    </list>
+</litepal>
